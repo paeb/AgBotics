@@ -1,2 +1,2 @@
 # AgBotics
-This is my code repository for AgBotics.
+This is the code repository for my agricultural robotics game, AgBotics.
